@@ -1,5 +1,12 @@
 [
     {
+        "Title": "Deal Or No Deal",
+        "Genre": "En Espa\u00f1ol",
+        "Language": "ES",
+        "Summary": "\"Deal Or No Deal\" es el exitoso concurso televisivo en el que los participantes compiten por un gran premio en efectivo, en una prueba de nervios e intuici\u00f3n pura.",
+        "Link": "https://watch.plex.tv/live-tv/channel/deal-or-no-deal-5"
+    },
+    {
         "Title": "CW Forever",
         "Genre": "Bingeworthy",
         "Language": "EN",
@@ -1470,13 +1477,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/cinevault"
     },
     {
-        "Title": "Humor Mill",
-        "Genre": "Comedy",
-        "Language": "EN",
-        "Summary": "The only urban comedy channel featuring stand up performances, sketches, documentaries, behind-the-scenes, one on one interviews.",
-        "Link": "https://watch.plex.tv/live-tv/channel/humor-mill"
-    },
-    {
         "Title": "Christmas Plus",
         "Genre": "Movies",
         "Language": "EN",
@@ -2072,6 +2072,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/ghost-3"
     },
     {
+        "Title": "Ghost",
+        "Genre": "True Crime",
+        "Language": "EN",
+        "Summary": "Ordinary people and celebrities reveal their frightening personal experiences of ghosts and haunted houses.",
+        "Link": "https://watch.plex.tv/live-tv/channel/ghost-2"
+    },
+    {
         "Title": "Bondi Rescue",
         "Genre": "Reality",
         "Language": "EN",
@@ -2182,6 +2189,13 @@
         "Language": "EN",
         "Summary": "Showing your favourite celebrities in a real and intimate light.",
         "Link": "https://watch.plex.tv/live-tv/channel/celeb-reality-5"
+    },
+    {
+        "Title": "Celeb Reality",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "Showing your favourite celebrities in a real and intimate light.",
+        "Link": "https://watch.plex.tv/live-tv/channel/celeb-reality-6"
     },
     {
         "Title": "Mayday: Air Disaster",
@@ -3486,11 +3500,11 @@
         "Link": "https://watch.plex.tv/live-tv/channel/sparkle-movies-light-and-love"
     },
     {
-        "Title": "Super Channel Hearties Christmas in July",
+        "Title": "Super Channel Hearties",
         "Genre": "Bingeworthy",
         "Language": "EN",
         "Summary": "Feel good entertainment celebrating love, romance, family ties and communities. Safe and family friendly, suitable for all ages.",
-        "Link": "https://watch.plex.tv/live-tv/channel/super-channel-hearties-christmas-in-july"
+        "Link": "https://watch.plex.tv/live-tv/channel/super-channel-hearties"
     },
     {
         "Title": "Wrestling Legends TV",
@@ -4466,11 +4480,11 @@
         "Link": "https://watch.plex.tv/live-tv/channel/nbc-news-now"
     },
     {
-        "Title": "CBS News",
+        "Title": "CBS News 24/7",
         "Genre": "News",
         "Language": "EN",
         "Summary": "Watch the free CBS News 24/7 live stream for breaking news & in-depth reporting.",
-        "Link": "https://watch.plex.tv/live-tv/channel/cbs-news"
+        "Link": "https://watch.plex.tv/live-tv/channel/cbs-news-24-7"
     },
     {
         "Title": "LiveNOW from FOX",
@@ -5363,7 +5377,7 @@
     },
     {
         "Title": "Mayday: Air Disaster",
-        "Genre": "Daytime TV & Games",
+        "Genre": "Reality",
         "Language": "EN",
         "Summary": "Aviation safety improves one crash at a time. Mayday: Air Disaster investigates incidents to find out what went wrong and why.",
         "Link": "https://watch.plex.tv/live-tv/channel/mayday-air-disaster-2"
@@ -6083,6 +6097,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/journy"
     },
     {
+        "Title": "Azteca Deportes Network",
+        "Genre": "En Espa\u00f1ol",
+        "Language": "ES",
+        "Summary": "Un canal de televisi\u00f3n de pago dedicado al deporte y una marca digital de TV Azteca, que ofrecen f\u00fatbol en vivo, programas de estudio y comentarios de expertos.",
+        "Link": "https://watch.plex.tv/live-tv/channel/azteca-deportes-network-2"
+    },
+    {
         "Title": "Estrella News",
         "Genre": "En Espa\u00f1ol",
         "Language": "ES",
@@ -6734,13 +6755,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/the-pet-collective-2"
     },
     {
-        "Title": "Drool",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Tune in to Drool and enjoy a delicious offering of shows from celebrity chefs, bestselling cookbook authors, and global culinary adventurers served up in a first of its kind Web meets TV fusion.",
-        "Link": "https://watch.plex.tv/live-tv/channel/drool"
-    },
-    {
         "Title": "Hong Kong Fight Club",
         "Genre": "Adrenaline & Sci-Fi",
         "Language": "EN",
@@ -6931,7 +6945,7 @@
     },
     {
         "Title": "Degrassi",
-        "Genre": "Daytime TV & Games",
+        "Genre": "Classics",
         "Language": "EN",
         "Summary": "Class is in session! The teens of Degrassi learn to deal with challenges as they travel down the complicated road to adulthood.",
         "Link": "https://watch.plex.tv/live-tv/channel/degrassi"
@@ -6993,11 +7007,11 @@
         "Link": "https://watch.plex.tv/live-tv/channel/weatherspy-2"
     },
     {
-        "Title": "Telemundo Acci\u00f3n",
+        "Title": "El Se\u00f1or de los Cielos",
         "Genre": "En Espa\u00f1ol",
         "Language": "ES",
-        "Summary": "Las mejores series de acci\u00f3n con muchos momentos inesperados, intriga y suspenso.",
-        "Link": "https://watch.plex.tv/live-tv/channel/telemundo-accion"
+        "Summary": "La historia de Aurelio Casillas, un hombre humilde que se convirti\u00f3 en el m\u00e1s rico y poderoso narcotraficante de M\u00e9xico.",
+        "Link": "https://watch.plex.tv/live-tv/channel/el-senor-de-los-cielos"
     },
     {
         "Title": "Andromeda",
@@ -7042,13 +7056,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/caracol-mix"
     },
     {
-        "Title": "Canela.TV Narco-Drama",
-        "Genre": "En Espa\u00f1ol",
-        "Language": "ES",
-        "Summary": "Las l\u00edneas entre el amor y el peligro. Desde el sombr\u00edo submundo de los narcotraficantes hasta los tumultuosos romances.",
-        "Link": "https://watch.plex.tv/live-tv/channel/canela-tv-narco-drama"
-    },
-    {
         "Title": "ElectricNOW en Espa\u00f1ol",
         "Genre": "En Espa\u00f1ol",
         "Language": "ES",
@@ -7063,11 +7070,11 @@
         "Link": "https://watch.plex.tv/live-tv/channel/delito"
     },
     {
-        "Title": "GoUSA TV",
+        "Title": "Journy",
         "Genre": "Explore",
         "Language": "EN",
-        "Summary": "The premier streaming channel for content from the entire United States. Go-to spot for all travel related content from the USA.",
-        "Link": "https://watch.plex.tv/live-tv/channel/gousa-tv"
+        "Summary": "JOURNY is the only channel at the intersection of travel, art, and culture! Watch curated content focused on immersive experiences and unique storytelling.",
+        "Link": "https://watch.plex.tv/live-tv/channel/journy-2"
     },
     {
         "Title": "FrightFlix",
@@ -7476,13 +7483,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/the-wiggles"
     },
     {
-        "Title": "Hot Wheels Action",
-        "Genre": "Kids & Family",
-        "Language": "EN",
-        "Summary": "Buckle up for fast Hot Wheels races, epic battles with He-man, railway fun with Thomas & Friends and more with Hot Wheels Action!",
-        "Link": "https://watch.plex.tv/live-tv/channel/hot-wheels-action"
-    },
-    {
         "Title": "beIN Sports Xtra en Espa\u00f1ol",
         "Genre": "En Espa\u00f1ol",
         "Language": "ES",
@@ -7490,25 +7490,11 @@
         "Link": "https://watch.plex.tv/live-tv/channel/bein-sports-xtra-en-espanol"
     },
     {
-        "Title": "Mattel Jr.",
-        "Genre": "Kids & Family",
-        "Language": "EN",
-        "Summary": "Mattel Jr. is your child\u2019s ticket to the charming and fun worlds of Thomas & Friends, Kipper, Pingu and more beloved characters!",
-        "Link": "https://watch.plex.tv/live-tv/channel/mattel-jr"
-    },
-    {
         "Title": "Historias de Coraz\u00f3n",
         "Genre": "En Espa\u00f1ol",
         "Language": "EN",
         "Summary": "Bienvenidos a Historias de Coraz\u00f3n: series y pel\u00edculas de amor y relaciones, desde romances dulces hasta dramas intensos.",
         "Link": "https://watch.plex.tv/live-tv/channel/historias-de-corazon-2"
-    },
-    {
-        "Title": "Barbie and Friends by Mattel",
-        "Genre": "Kids & Family",
-        "Language": "EN",
-        "Summary": "Join Barbie and her best doll friends in a world where imagination, fashion, friendship and exciting adventures take center stage!",
-        "Link": "https://watch.plex.tv/live-tv/channel/barbie-and-friends-by-mattel"
     },
     {
         "Title": "Strawberry Shortcake",
@@ -8036,13 +8022,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/horror-stories"
     },
     {
-        "Title": "Journy",
-        "Genre": "Explore",
-        "Language": "EN",
-        "Summary": "JOURNY is the only channel at the intersection of travel, art, and culture! Watch curated content focused on immersive experiences and unique storytelling.",
-        "Link": "https://watch.plex.tv/live-tv/channel/journy-ca"
-    },
-    {
         "Title": "Toon Goggles",
         "Genre": "Kids & Family",
         "Language": "EN",
@@ -8426,13 +8405,6 @@
         "Language": "ES",
         "Summary": "Emoci\u00f3n Atres ofrece una variada selecci\u00f3n de series y dramas internacionales. Entretenimiento garantizado que combina drama, romance y comedia.",
         "Link": "https://watch.plex.tv/live-tv/channel/emocion-atres-2"
-    },
-    {
-        "Title": "The Boat Show",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Join The Boat Show for exciting yachting adventures, the latest boat tech, expert sailing tips, and exclusive yacht tours. Set sail today!",
-        "Link": "https://watch.plex.tv/live-tv/channel/the-boat-show"
     },
     {
         "Title": "FreeTV Sure\u00f1o",
@@ -10171,6 +10143,48 @@
         "Link": "https://watch.plex.tv/live-tv/channel/modern-marvels-4"
     },
     {
+        "Title": "Inazuma Eleven",
+        "Genre": "Global",
+        "Language": "FR",
+        "Summary": "Un groupe d'enfants s'entra\u00eene pour d\u00e9velopper son talent et r\u00e9ussir au football.",
+        "Link": "https://watch.plex.tv/live-tv/channel/inazuma-eleven-2"
+    },
+    {
+        "Title": "Azteca Deportes Network",
+        "Genre": "Sports",
+        "Language": "ES",
+        "Summary": "Un canal de televisi\u00f3n de pago dedicado al deporte y una marca digital de TV Azteca, que ofrecen f\u00fatbol en vivo, programas de estudio y comentarios de expertos.",
+        "Link": "https://watch.plex.tv/live-tv/channel/azteca-deportes-network"
+    },
+    {
+        "Title": "Love after Lockup",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "Love After Lockup follows couples as they reunite after prison and discover if their love can survive the real world.",
+        "Link": "https://watch.plex.tv/live-tv/channel/love-after-lockup-2"
+    },
+    {
+        "Title": "AMC Cupid",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "AMC Cupid your destination for all things weddings, dating, and romance, featuring relationship-themed unscripted shows.",
+        "Link": "https://watch.plex.tv/live-tv/channel/amc-cupid-2"
+    },
+    {
+        "Title": "AMC Reality",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "AMC Reality is the ultimate streaming destination for bold, unscripted entertainment \u2014 from the biggest reality hits to gripping true crime stories.",
+        "Link": "https://watch.plex.tv/live-tv/channel/amc-reality-2"
+    },
+    {
+        "Title": "Inazuma Eleven",
+        "Genre": "Global",
+        "Language": "EN",
+        "Summary": "A group of children practice to grow their talent and achieve success in football.",
+        "Link": "https://watch.plex.tv/live-tv/channel/inazuma-eleven"
+    },
+    {
         "Title": "Hoarders",
         "Genre": "Explore",
         "Language": "EN",
@@ -11744,13 +11758,6 @@
         "Language": "EN",
         "Summary": "Experience legendary full-length concert films and riveting documentaries featuring all of the artists you love.",
         "Link": "https://watch.plex.tv/live-tv/channel/qello-concerts-2"
-    },
-    {
-        "Title": "Music Legends",
-        "Genre": "Music",
-        "Language": "EN",
-        "Summary": "Music Legends is the #1 streaming channel for music documentaries and concerts. Featuring all of your favorite artists from yesterday to today, Music Legends has them all!",
-        "Link": "https://watch.plex.tv/live-tv/channel/music-legends"
     },
     {
         "Title": "So Yummy",
